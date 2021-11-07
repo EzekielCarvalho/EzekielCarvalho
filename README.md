@@ -92,8 +92,6 @@
 
 
 
-<!--END_SECTION:activity-->
-
 
 [website]: https://carvalhosolutions.com
 [project]: https://costascommerce.herokuapp.com/
