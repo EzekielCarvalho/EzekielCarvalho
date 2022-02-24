@@ -21,6 +21,7 @@
 <br />
 
 - [![carvalhosolutions](https://img.shields.io/badge/Carvalho_Solutions-grey?style=for-the-badge&logo=carvalhosolutions&logoColor=white)](https://carvalhosolutions.com/)
+- [![youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https:\/\/www.youtube.com\/channel\/UCVuexNXatdd9jobh4s6U2wA)
 - [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/EzekielCarvalho)
 - [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ezekiel_carvalho)
 - [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ezekiel-carvalho)
